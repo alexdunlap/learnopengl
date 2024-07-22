@@ -8,6 +8,9 @@ Install command from [https://brew.sh/](https://brew.sh/):
 $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
+- After running this command you will be prompted for your password, enter it
+- ...
+
 Check system integrity:
 ```
 $ brew doctor
