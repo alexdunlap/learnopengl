@@ -28,7 +28,7 @@ $ man brew
 ```
 
 # tmux
-If you were successfull above you should now be able to install new software using brew.
+If you were successful above you should now be able to install new software using brew.
 
 ## Install tmux
 First check whether tmux is installed.
